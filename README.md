@@ -1,3 +1,5 @@
+[THIS IS JUST A BACKUP COPY OF MIRAI BOTNET FOR EDUCATION PURPOSE ALONE]
+
 # Mirai BotNet
 Leaked Linux.Mirai Source Code for Research/IoT Development Purposes
 
